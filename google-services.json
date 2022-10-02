@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29742997016",
+    "project_id": "flutter-food-safer",
+    "storage_bucket": "flutter-food-safer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29742997016:android:08f5f731c897147a8e2d6d",
+        "android_client_info": {
+          "package_name": "com.dong.foodsafer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29742997016-h94avgurqhcf1dsj92g97ip31dj6bpit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8pQzhLKeUapdobh-4uDB6t-wJAnYp6KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29742997016-h94avgurqhcf1dsj92g97ip31dj6bpit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
